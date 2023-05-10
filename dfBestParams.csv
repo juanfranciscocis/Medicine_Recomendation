@@ -1,2 +1,3 @@
 Model,Best Params 1,Best Params 2,Best Params 3
-Logistic Regression,l2,0.1,None
+Logistic Regression,l2,0.001,
+SVM,100,rbf,None
